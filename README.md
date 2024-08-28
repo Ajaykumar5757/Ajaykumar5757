@@ -5,6 +5,10 @@ I'm currently pursuing my **UG degree in B.Tech Information Technology** at Hind
 
 I’m passionate about applying my skills and enthusiasm to create impactful outcomes, and I always approach challenges with a positive attitude and a smile.
 
+### Languages
+- Java
+- SQL
+
 ### Interests
 - **Sports Tracking**: I keep a keen eye on sports and enjoy integrating tracking features into my projects.
 - **Chess and Badminton**: I love playing chess and badminton, both of which keep me engaged and energized.
