@@ -1,7 +1,3 @@
-Great! Here's a customized README for your GitHub profile that includes your interests:
-
----
-
 ## Hello, I'm Ajaykumar! 👋
 
 ### About Me
