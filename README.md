@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajaykumar A</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaykumar5757" alt="ajaykumar5757" /></a> </p>
-
 - 🌱 I’m currently learning **Full stack development**
 
 - 💬 Ask me about **java**
@@ -25,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaykumar5757&show_icons=true&locale=en&layout=compact" alt="ajaykumar5757" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaykumar5757&show_icons=true&locale=en" alt="ajaykumar5757" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaykumar5757&" alt="ajaykumar5757" /></p>
