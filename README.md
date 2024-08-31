@@ -10,4 +10,8 @@ I’m passionate about applying my skills and enthusiasm to create impactful out
 ### Languages
 - Java
 - SQL
+- Html
+- CSS
+- JS
+- ReactJs
 - Python
